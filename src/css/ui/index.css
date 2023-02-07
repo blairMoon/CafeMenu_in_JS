@@ -1,3 +1,8 @@
 @import "modules/modal.css";
 @import "modules/chip.css";
 @import "modules/form.css";
+
+.new-btn {
+  width: 50px;
+  border: 0;
+}
